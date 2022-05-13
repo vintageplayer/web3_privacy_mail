@@ -1,0 +1,4 @@
+npx create-next-app web3_privacy_mail
+npx i next
+npm install bootstrap react-bootstrap
+npm install web3.storage

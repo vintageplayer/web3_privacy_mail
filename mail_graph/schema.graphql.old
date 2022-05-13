@@ -1,0 +1,12 @@
+type Account @entity(immutable: true) {
+  id: ID!
+  accountAddress: Bytes! # address
+  keyCID: String! # string
+}
+
+type Mail @entity(immutable: true) {
+  id: ID!
+  from: Bytes! # address
+  to: Bytes! # address
+  dataCID: String! # string
+}

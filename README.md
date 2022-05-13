@@ -1,3 +1,6 @@
+# Publicly Owned, Private Mail
+A cross-chain mail dapp using IPFS to store the data. It is encrypted to ensure only the receipients can 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
